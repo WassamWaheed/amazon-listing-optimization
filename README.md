@@ -1,27 +1,38 @@
-# Amazon Listing Optimization
+# Amazon Listing Optimization Toolkit
 
-A practical Amazon catalog and listing optimization portfolio project.
+Practical Amazon catalog and listing workflows focused on **listing quality, keyword coverage, product data, variations, and pre-upload QA**.
 
-## Demonstrates
-- Listing-quality audits
+## What This Demonstrates
+- Amazon listing audits
+- Title and bullet review
 - Keyword coverage checks
-- Product title and bullet review
+- Required product-data validation
 - Variation planning
-- Product-data cleanup
 - Bulk upload preparation
 - Post-upload QA
 
-## Workflow
-1. Review source product data
-2. Normalize attributes and variation values
-3. Audit title, bullets, description, and search terms
-4. Check keyword coverage
-5. Validate required catalog fields
-6. Upload and verify in Seller Central
+## Listing Audit Framework
 
-## Included
-- Listing audit checklist
-- Demo listing CSV
-- Keyword coverage utility
+**Research → Product Data → Listing Structure → SEO → Upload → Troubleshoot → QA**
 
-This repository uses demo data only.
+### Product Data
+- Verify SKU and identifiers
+- Confirm brand consistency
+- Select the appropriate product type
+- Complete required attributes
+
+### Content
+- Keep titles clear and product-specific
+- Use bullets to explain features and customer value
+- Review search-term coverage without unnecessary repetition
+- Verify that claims can be supported
+
+### Variations
+- Validate parent/child structure
+- Keep child variation values consistent
+- Confirm the variation theme fits the category
+
+## Portfolio Note
+This repository documents a professional workflow using demo data. It contains no private Seller Central exports or client credentials.
+
+**Hire me on Upwork:** https://www.upwork.com/freelancers/~0115a312ed543a19a1
