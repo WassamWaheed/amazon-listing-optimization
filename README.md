@@ -11,6 +11,21 @@ Practical Amazon catalog and listing workflows focused on **listing quality, key
 - Bulk upload preparation
 - Post-upload QA
 
+## Included Files
+- [Listing Audit Checklist](listing_audit_checklist.md)
+- [Demo Listing CSV](sample_listing.csv)
+- [Keyword Coverage Checker](keyword_coverage.py)
+
+## Quick Demo
+
+Run:
+
+```bash
+python keyword_coverage.py sample_listing.csv
+```
+
+The script checks whether target keyword phrases are represented in the visible demo listing copy.
+
 ## Listing Audit Framework
 
 **Research → Product Data → Listing Structure → SEO → Upload → Troubleshoot → QA**
